@@ -11,8 +11,7 @@ Version 0.2.4 (test build)
 INSTALL
   
   1.unzip to game folder, only tested with virtual desktop XR,
-    ![Uploading Herdling vr.jpg…]()
-to disable Mod rename winhttp.dll to winhttp.dll.bak.
+    to disable Mod rename winhttp.dll to winhttp.dll.bak.
   2. Start your OpenXR runtime first (Virtual Desktop / SteamVR / Quest Link), then the game.
 
 
